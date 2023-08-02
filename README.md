@@ -54,4 +54,4 @@ Docker  container link:[Docker Hub](https://hub.docker.com/repository/docker/woo
 ## Results
   | Method | Complete model |
   | ------ | -------------- |
-  | F1     |  0.8250        |
+  | F1     |  0.7558        |
