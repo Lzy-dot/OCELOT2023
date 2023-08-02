@@ -49,7 +49,7 @@ Then we get two models saved in ./work_dir/samh_unet_final
 You can download models trained on the above dataset with the above code here:
 
 
-Docker  container link:[Docker Hub](https://hub.docker.com/repository/docker/woof4/saltfish/general)
+Docker  container link:[Docker Hub](https://hub.docker.com/repository/docker/zyleeustc/ocelot2023/general)
 
 ## Results
   | Method | Complete model |
