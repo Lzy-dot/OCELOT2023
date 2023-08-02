@@ -45,6 +45,7 @@ To train the models, run this command :
 Then we get two models saved in ./work_dir/samh_unet_final
 
 ## Trained Models
+The publicly available pre-trained vit models can be download here[Google Drive](https://drive.google.com/drive/folders/1UVwNHj9Y47j516SEUdtn1nlDau1kksDj)
 
 You can download models trained on the above dataset with the above code here:
 
